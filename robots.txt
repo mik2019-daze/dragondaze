@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://mik2019-daze.github.io/dragondaze/sitemap.xml
